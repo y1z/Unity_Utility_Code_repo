@@ -1,0 +1,13 @@
+{
+  "name": "com.y1z.utility-code",
+  "version": "1.0.0",
+  "displayName": "Utility code for unity",
+  "description": "Code I find to be useful",
+  "unity": "2022.3",
+  "keywords": ["code"],
+  "author": {
+    "name": "y1z",
+    "email": "",
+    "url": ""
+  }
+}
