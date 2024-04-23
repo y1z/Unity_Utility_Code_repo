@@ -12,7 +12,7 @@
     4. press the "Add package from git URL"
     5. Copy and paste the url for this repo into the box that appears 
     6. Unity should download all the code 
-    7. use code 
+    7. use code however the hell you want.
 
 ## If The Previous Instruction Did Not Work
 
@@ -25,4 +25,4 @@
     6. press the "Add package from disk"
     7. go to the unzipped file 
     8. add the un zip file
-    9. use code the whatever the hell you want.
+    9. use code however the hell you want.
