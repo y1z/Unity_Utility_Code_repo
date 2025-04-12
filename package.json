@@ -1,6 +1,6 @@
 {
   "name": "com.y1z.utility-code",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "displayName": "Utility code for unity",
   "description": "Code I find to be useful",
   "unity": "2022.3",
@@ -12,7 +12,7 @@
   },
       "repository": {
       "type": "git",
-      "url": "https://github.com/y1z/Unity_Utility_Code_repo.git",
+      "url": "https://github.com/y1z/Unity_Utility_Code_repo",
       "directory": "com.y1z.utility-code"
-    },
+    }
 }
