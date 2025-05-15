@@ -10,9 +10,10 @@
     2. go to Package Manager
     3. press the + symbol
     4. press the "Add package from git URL"
-    5. Copy and paste the url for this repo into the box that appears 
-    6. Unity should download all the code 
-    7. use code however the hell you want.
+    5. copy and paste this link https://github.com/y1z/Unity_Utility_Code_repo.git
+    6. Copy and paste the url for this repo into the box that appears 
+    7. Unity should download all the code 
+    8. use code however the hell you want.
 
 ## If The Previous Instruction Did Not Work
 
