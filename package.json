@@ -1,6 +1,6 @@
 {
   "name": "com.y1z.utility-code",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "displayName": "Utility code for unity",
 "description": "A set of utility classes for use with unity \nEDebug : is like Debug but get remove from the realease build or any build that is not attached to the editor",
   "unity": "2022.3",
