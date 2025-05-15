@@ -1,10 +1,10 @@
 {
   "name": "com.y1z.utility-code",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "displayName": "Utility code for unity",
-  "description": "Code I find to be useful",
+"description": "A set of utility classes for use with unity \nEDebug : is like Debug but get remove from the realease build or any build that is not attached to the editor",
   "unity": "2022.3",
-  "keywords": ["code"],
+  "keywords": ["code","utility","utils"],
   "author": {
     "name": "y1z",
     "email": "",
