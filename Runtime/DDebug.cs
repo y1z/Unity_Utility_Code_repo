@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * This class create Log message that only appear in the editor OR development builds (assuming UNITY_EDITOR or DEVELOPMENT_BUILD macro /script symbol is defined)
+ */
 public static class DDebug
 {
     [System.Diagnostics.Conditional("UNITY_EDITOR"), System.Diagnostics.Conditional("DEVELOPMENT_BUILD")]

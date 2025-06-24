@@ -12,3 +12,7 @@
 	*   *`addQuadToString`* => only works with Unity Legacy UI text
 	*   *`addMaterialToString`* => only works with Unity Legacy UI text
 
+# 1.7.1
+---
+- ***DDebug*** is the same as ***EDebug*** but the debug statements algo work in development builds
+    * *DDebug* Needs the macro "UNITY_EDITOR" and "DEVELOPMENT_BUILD" to work.
